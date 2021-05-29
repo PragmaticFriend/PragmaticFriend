@@ -38,7 +38,7 @@
 
 ## >>> Designer skills: 
 
-### Graphic editor
+### Graphic editors
 	- 	Adobe Photoshop (5 years experience)
 	- 	Adobe Illustrator
 	- 	Figma
@@ -49,7 +49,7 @@
 	- 	DaVinci Resolve
 	- 	Sony Vegas
 	
-### 3d modeling
+### 3D modeling
 	- 	Element 3D
 	- 	Blender
 	- 	Cinema 4D
