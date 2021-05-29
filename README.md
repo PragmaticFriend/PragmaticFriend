@@ -1,5 +1,11 @@
 ***Welcome to the world of my obsessions***
 
+![alt text](img/1.png "")
+
+
+![alt text](img/2.png "")
+
+
 ## >>> Developer skills: 
 
 ### Python 
@@ -27,6 +33,9 @@
 - JavaScript
 	
 	
+![alt text](img/3.png "")	
+
+
 ## >>> Designer skills: 
 
 ### Graphic editor
@@ -46,12 +55,20 @@
 	- 	Cinema 4D
 	- 	RealityCapture
 	
+	
+![alt text](img/4.png "")
+	
+	
 ### >>> Analytics skills
 	- 	Power BI
 	- 	AnyLogic PLE
 	- 	Deductor Studio
 	- 	Excel
 	
+	
+![alt text](img/5.png "")	
+	
+		
 ### >>> Other Skills
 	- 	Termux
 	
