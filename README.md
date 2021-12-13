@@ -1,4 +1,3 @@
-***Welcome to the world of my obsessions***
 
 ![alt text](img/1.png "")
 
